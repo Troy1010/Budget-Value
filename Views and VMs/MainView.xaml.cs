@@ -25,6 +25,10 @@ namespace Budget_Value
         public MainView()
         {
             InitializeComponent();
+            this.Height = 2000;
+            this.Width = 2000;
+            this.Top = 0;
+            this.Left = 0;
         }
     }
 }

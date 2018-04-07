@@ -17,12 +17,11 @@ namespace Budget_Value
         public string sAdditionalInfo { get; set; }
         // User Assigned Data
         public string sCatagory { get; set; }
-        //
+        // Format sAdditionalInfo to look like a user-viewable description
         public string sDescription
         {
             get
             {
-                //?
                 string sReturning = "" + sAdditionalInfo;
                 Match oMatch;
                 if ((oMatch = Regex.Match(sReturning, "TERMINAL ", RegexOptions.IgnoreCase)).Success)
@@ -35,7 +34,6 @@ namespace Budget_Value
                 }
                 sReturning = Regex.Replace(sReturning, "[ ]{2,}", " ", RegexOptions.IgnoreCase);
                 sReturning = sReturning.Trim();
-                sReturning = vTimestamp.ToString("MM/dd/yyyy") + "," + dAmount.ToString().PadRight(8) + "," + sReturning;
                 return sReturning;
             }
         }
