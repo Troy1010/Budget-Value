@@ -59,6 +59,8 @@
     <Compile Include="CommandHandler.cs" />
     <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="ListExt.cs" />
+    <Compile Include="Misc\DesignerBaseValues-SpendingsHistoryGrid.cs" />
+    <Compile Include="Misc\SpendingsHistoryDataItemViewModel.cs" />
     <Compile Include="ObservableCollectionExt.cs" />
     <Compile Include="Views and VMs\ImportView.xaml.cs">
       <DependentUpon>ImportView.xaml</DependentUpon>
