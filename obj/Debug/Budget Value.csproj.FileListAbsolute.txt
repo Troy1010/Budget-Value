@@ -1,0 +1,22 @@
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\bin\Debug\Budget Value.exe.config
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\bin\Debug\Budget Value.exe
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\bin\Debug\Budget Value.pdb
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Budget Value.csprojResolveAssemblyReference.cache
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\App.g.cs
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Budget Value_MarkupCompile.cache
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Budget Value_MarkupCompile.lref
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Budget Value.g.resources
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Budget_Value.Properties.Resources.resources
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Budget Value.csproj.GenerateResource.Cache
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Budget Value.exe
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Budget Value.pdb
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Budget Value.csproj.CoreCompileInputs.cache
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Views and VMs\MainView.g.cs
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Views and VMs\SpendablesView.g.cs
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Views and VMs\SpendingsHistoryView.g.cs
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Views and VMs\MainView.baml
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Views and VMs\SpendablesView.baml
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Views and VMs\SpendingsHistoryView.baml
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Views and VMs\ImportView.g.cs
+C:\TMinus1010\Projects - Priority\Coding\C#\Budget Value\Budget Value\Budget Value\obj\Debug\Views and VMs\ImportView.baml

@@ -1,0 +1,31 @@
+﻿<Window x:Class="Budget_Value.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Budget_Value"
+        mc:Ignorable="d"
+        Title="Budget Value" Height="1000" Width="1000"
+        d:DataContext="{d:DesignInstance local:MainVM}">
+    
+    <Border Padding="10">
+        <Grid>
+            <TabControl>
+                <!-- Spendables -->
+                <TabItem Header="Spendables" DataContext="{Binding Spendables}">
+                    <local:SpendablesView/>
+                </TabItem>
+                <!-- Paycheck Plan -->
+                <TabItem Header="Paycheck Plan"/>
+                <!-- Spending History -->
+                <TabItem Header="Spending History">
+                    <local:SpendingsHistoryView/>
+                </TabItem>
+                <!-- Net Worth -->
+                <TabItem Header="Net Worth"/>
+                <!-- Tools -->
+                <TabItem Header="Tools"/>
+            </TabControl>
+        </Grid>
+    </Border>
+</Window>
